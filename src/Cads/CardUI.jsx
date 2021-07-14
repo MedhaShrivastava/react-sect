@@ -4,7 +4,7 @@ const Card = props =>{
   return(
     <div className='card text-center shadow'>
     <div className="overflow">
-    <img src={require ('/assets/image.jpeg')} alt='' className="card-img-top" />
+    <img src={'. /assets/image.jpeg'} alt='' className="card-img-top" />
     </div>
     <div className="card-body text-dark">
      <h4 className="card-title">Card Title</h4>
