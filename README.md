@@ -2,4 +2,4 @@
 
 [L on StackBlitz ⚡️](https://stackblitz.com/edit/react-a6v5ue)
 
-![](src/assets/Img1)
+![](src/assets/Img1.jpeg)
