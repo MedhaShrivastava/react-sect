@@ -1,10 +1,11 @@
 import React from 'react';
 import "./card-style.css";
+import img1 from "./assets/images(2).jpeg";
 const Card = props =>{
   return(
     <div className='card text-center shadow'>
     <div className="overflow">
-    <img src="" alt="" className="card-img-top" />
+    <img src={img1} alt='Image1' className="card-img-top" />
     </div>
     <div className="card-body text-dark">
      <h4 className="card-title">Card Title</h4>
